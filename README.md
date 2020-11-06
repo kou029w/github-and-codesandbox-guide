@@ -1,5 +1,6 @@
 ---
 marp: true
+paginate: true
 ---
 
 # GitHub と CodeSandbox の使い方
