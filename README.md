@@ -26,7 +26,8 @@ Web アプリケーション開発のための便利なサービスを紹介
 # Git
 
 もともと Linux の開発者リーナス・トーバルズによって作られたシステム
-Linux の開発には多くの人が携わっている ([~1,000 人以上](https://www.linuxfoundation.org/membership/join/))
+[2780万行](https://www.linux.com/news/linux-in-2020-27-8-million-lines-of-code-in-the-kernel-1-3-million-in-systemd/) - Linux は膨大なコードで構成されている
+[1,000 人以上](https://www.linuxfoundation.org/membership/join/) - Linux は開発には多くの人が携わっている
 いつ・だれが・なにを・なぜそうしたかを記録し管理するための仕組みが必要
 
 ## 分散型バージョン管理システム
