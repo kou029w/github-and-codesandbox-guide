@@ -79,6 +79,8 @@ GitHub の詳しい操作方法などは[GitHub ハンズオンセミナー資�
 
 # CodeSandbox
 
+![bg 100% right](https://i.gyazo.com/2dedff98cf5997e6582242e42f1401fd.png)
+
 ## Web アプリケーション開発のためのオンラインエディター
 
 CodeSandbox は Web アプリケーション開発のためのオンラインエディターです。 Web ブラウザの上ですばやくプロトタイプを作成し、簡単に実験を行い、ワンクリックで共有できます。
